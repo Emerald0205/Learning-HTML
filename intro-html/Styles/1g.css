@@ -1,0 +1,52 @@
+ .addtocart-button {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    height: 30px;
+    width: 105px;
+    border-radius: 17px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+  }
+  .addtocart-button:hover {
+    opacity: 0.7;
+  }
+  .addtocart-button:active {
+    opacity: 0.5;
+  }
+  .buynow-button {
+    background-color: rgb(255, 164, 28);
+    color: black;
+    border: none;
+    height: 30px;
+    width: 105px;
+    border-radius: 17px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+  .buynow-button:hover {
+    opacity: 0.7;
+  }
+  .buynow-button:active {
+    opacity: 0.5;
+  }
+  .Nike {
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .instock {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 118, 0);
+  }
+  .delivery {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  .amazon:hover {
+    color: orange;
+  }
+  .amazon:active {
+    opacity: 0.7;
+  }
